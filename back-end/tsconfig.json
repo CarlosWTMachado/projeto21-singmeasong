@@ -1,0 +1,16 @@
+/* eslint-disable */
+{
+	"compilerOptions": {
+		"target": "es6",
+		"module": "commonjs",
+		"esModuleInterop": true,
+		"moduleResolution": "node",
+		"outDir": "dist",
+		"forceConsistentCasingInFileNames": true,
+		"strict": true,
+		"skipLibCheck": true
+	},
+	"ts-node": {
+		"esm": true
+	}
+}
